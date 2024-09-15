@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahya</h1>
-<h3 align="center">A Full Stack Developer | Python & Django Specialist | Proficient in Frontend & Backend Technologies from Egypt
-</h3>
+<h3 align="center">A Full Stack Developer | Python & Django Specialist </h3>
 
 - 🔭 I’m currently working on [JobBoard](https://github.com/YahyaAhmed20/Job_Board_w)
 
